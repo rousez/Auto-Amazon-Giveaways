@@ -1,4 +1,5 @@
 asyncio
 colorama
+pathlib
 pyppeteer
 numpy
